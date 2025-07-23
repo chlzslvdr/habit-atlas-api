@@ -1,6 +1,6 @@
 # Habit Atlas – Backend API
 
-**Habit Atlas** is a backend-only GraphQL API built with Node.js, TypeScript, and Supabase. It lets users create, track, and complete personal habits with optional social sharing and analytics (future features).
+Habit Atlas is a backend-only GraphQL API built with Node.js, TypeScript, and Supabase. It lets users create, track, and complete personal habits with optional social sharing and analytics (future features).
 
 ## Features
 
@@ -46,6 +46,8 @@ Create a .env file:
 ```
 SUPABASE_URL=https://your-project.supabase.co
 SUPABASE_ANON_KEY=your-supabase-anon-key
+TEST_EMAIL=test-email
+TEST_PASSWORD=test-password
 ```
 
 ### 4. Run the development server

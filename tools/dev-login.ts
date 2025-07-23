@@ -8,8 +8,8 @@ const supabase = createClient(
 
 async function main() {
   const { data, error } = await supabase.auth.signInWithPassword({
-    email: 'jack@atlas.com',
-    password: 'Atlas^1235',
+    email: process.env.TEST_EMAIL || "",
+    password: process.env.TEST_PASSWORD || "",
   });
 
   if (error) {
