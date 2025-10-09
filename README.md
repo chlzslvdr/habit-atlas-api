@@ -1,4 +1,4 @@
-![Cron job status](https://api.cron-job.org/jobs/6570362/923e11ce0317d918/status-3.svg)
+![Cron job status](https://api.cron-job.org/jobs/6570362/c6a47cb7242e2b18/status-1.svg)
 
 # Habit Atlas – Backend API
 
