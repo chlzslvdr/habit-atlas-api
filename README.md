@@ -1,3 +1,5 @@
+![Cron job status](https://api.cron-job.org/jobs/6570362/923e11ce0317d918/status-3.svg)
+
 # Habit Atlas – Backend API
 
 Habit Atlas is a backend-only GraphQL API built with Node.js, TypeScript, and Supabase. It lets users create, track, and complete personal habits with optional social sharing and analytics (future features).
